@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "mongoose": "^4.11.5",
     "mongoose-delete": "^0.4.0",
     "mongoose-sequence": "^3.2.0"

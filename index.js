@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const Invoice = require('./invoice');
+global.Promise = require('bluebird');
 
 mongoose.Promise = global.Promise;
 
